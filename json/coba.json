@@ -1,0 +1,30 @@
+[
+{
+    "nama"  : "Hartanto Santoso",
+    "umur"  : 32,
+    "nrp"   :"2015-137",
+    "lulus" : true,
+    "hobby" :[
+        "coding",
+        "badminton"
+    ],
+    "Pembimbing"    :{
+        "Pembimbing1"   : "Wildan suharso",
+        "Pembimbig2"    : "Hariyadi"
+    }
+},
+{
+    "nama"  : "Hartanto Santoso",
+    "umur"  : 32,
+    "nrp"   :"2015-137",
+    "lulus" : true,
+    "hobby" :[
+        "coding",
+        "badminton"
+    ],
+    "Pembimbing"    :{
+        "Pembimbing1"   : "Wildan suharso",
+        "Pembimbig2"    : "Hariyadi"
+    }
+}
+]
